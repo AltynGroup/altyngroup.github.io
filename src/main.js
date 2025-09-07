@@ -1,6 +1,6 @@
 import { App } from './components/app/app.component';
 
-// eslint-disable-next-line no-console
+
 console.log('Hello there 👋. Wanna play a game? 👉 https://danziger.github.io/slotjs/');
 
 const app = new App();

@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-use-before-define
 import { IS_DESKTOP, HAS_CURSOR } from '../../constants/browser.constants';
 import { Galaxy } from '../galaxy/galaxy/galaxy.class';
 import { initializeLinks } from '../link/link.utils';
